@@ -5,3 +5,6 @@
 .idea/*
 *.class
 */*.class
+*.txt
+*.doc
+*/*.doc*
